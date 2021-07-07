@@ -1,0 +1,16 @@
+{
+  "short_name": "Plasma Swap",
+  "name": "Plasma Swap",
+  "description": "Farm PLASMA with Plasma Swap's LP Tokens",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
